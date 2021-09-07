@@ -25,7 +25,7 @@ function Header() {
         </Link>
        </div>
        <div>
-        <h1 className="search_slogan"> Real Property For Real People
+        <h1 className="search_slogan"> Real Properties For Real People
         </h1>
         </div>
 
