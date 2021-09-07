@@ -1,0 +1,15 @@
+  .header__items {
+   display: flex; 
+   align-items: center;
+   margin-left: 10px;
+  }
+
+  .header__logo {
+    width: 100px;
+    height: 80px;
+    /* object-fit: contain; */
+  }
+  
+ 
+  
+  
