@@ -1,7 +1,6 @@
 import React from 'react';
 import Header from './Header';
 import Search from './Search';
-import Footer from './Footer';
 import Rentlist from './Rentlist';
 import Saleslist from './Saleslist';
 import Upload from './Upload';

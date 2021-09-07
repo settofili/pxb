@@ -1,9 +1,12 @@
 import React from 'react'
+import './Footer.css';
 
 function Footer() {
     return (
         <div>
-            <h3>I am the footer section</h3>
+            <div className="footer__section">
+            <h6>Kindly contact Alex Jean-Poix  Email: (alex@ getpropfax.com) for further details</h6>
+            </div>
         </div>
     )
 }
