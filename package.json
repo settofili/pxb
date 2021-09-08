@@ -2,7 +2,9 @@
   "name": "dbank",
   "version": "0.1.0",
   "description": "Decentralized Bank",
-  "author": "dev@dappuniversity.com",
+  "author": ".",
+  "homepage":"http://settofili.github.io/pxb",
+
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -29,7 +31,6 @@
     "web-vitals": "^2.1.0",
     "web3": "1.2.6"
   },
-  "homepage":"http://settofili.github.io/pxb",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
